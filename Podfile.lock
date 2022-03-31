@@ -1,0 +1,83 @@
+PODS:
+  - Differentiator (5.0.0)
+  - Kingfisher (7.2.0)
+  - MSPeekCollectionViewDelegateImplementation (3.2.0)
+  - R.swift (6.1.0):
+    - R.swift.Library (~> 5.3.0)
+  - R.swift.Library (5.3.0)
+  - Resolver (1.4.5)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxDataSources (5.0.0):
+    - Differentiator (~> 5.0)
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxGesture (4.0.4):
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - RxSwiftExt (6.0.1):
+    - RxSwiftExt/Core (= 6.0.1)
+    - RxSwiftExt/RxCocoa (= 6.0.1)
+  - RxSwiftExt/Core (6.0.1):
+    - RxSwift (~> 6.0)
+  - RxSwiftExt/RxCocoa (6.0.1):
+    - RxCocoa (~> 6.0)
+    - RxSwiftExt/Core
+  - SnapKit (5.0.1)
+  - XCoordinator (2.2.0):
+    - XCoordinator/Core (= 2.2.0)
+  - XCoordinator/Core (2.2.0)
+
+DEPENDENCIES:
+  - Kingfisher (= 7.2.0)
+  - MSPeekCollectionViewDelegateImplementation
+  - R.swift
+  - Resolver (~> 1.4.3)
+  - RxCocoa (= 6.5.0)
+  - RxDataSources
+  - RxGesture (~> 4.0.2)
+  - RxSwift (= 6.5.0)
+  - RxSwiftExt
+  - SnapKit
+  - XCoordinator (~> 2.0)
+
+SPEC REPOS:
+  trunk:
+    - Differentiator
+    - Kingfisher
+    - MSPeekCollectionViewDelegateImplementation
+    - R.swift
+    - R.swift.Library
+    - Resolver
+    - RxCocoa
+    - RxDataSources
+    - RxGesture
+    - RxRelay
+    - RxSwift
+    - RxSwiftExt
+    - SnapKit
+    - XCoordinator
+
+SPEC CHECKSUMS:
+  Differentiator: e8497ceab83c1b10ca233716d547b9af21b9344d
+  Kingfisher: 3ac0b75b155cabc0e544877d1a4deea29feece92
+  MSPeekCollectionViewDelegateImplementation: be35a217bd302976a9e4476151be992c1f150127
+  R.swift: ec98ff71c4ab2f6fd01dd077e5afd15e63a4834c
+  R.swift.Library: 0fc583cb55a99e28901299cc451614cad1161962
+  Resolver: 82d7e748325a47bb1d114811722dee688781115e
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxDataSources: aa47cc1ed6c500fa0dfecac5c979b723542d79cf
+  RxGesture: f3efb47ed2d26a8082f7b660d4a59970e275a7f8
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  RxSwiftExt: d61c4b9b06e0a448041b1c659e0f1b5c5a035afc
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  XCoordinator: a5f91e43ee944f508529763921165697d3211629
+
+PODFILE CHECKSUM: 8b11d3ae510bcca1b34260b515143b4764865ef7
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,19 @@
+# Xcode
+.DS_Store
+/build/
+*.pbxuser
+xcuserdata
+DerivedData
+.idea/
+*.hmap
+*.xccheckout
+.xcuserdatad
+#CocoaPods
+Pods
+Pods/
+NetflixClone.xcworkspace
+NetflixClone.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+NetflixClone.xcworkspace/xcuserdata
+README.md
+report.xml
+app/NetflixClone.xcodeproj/project.xcworkspace
